@@ -1,0 +1,21 @@
+# MAIN
+
+# Mailist dir
+mailist = "Mailist/list.txt"
+subject = ""
+from_name = ""
+from_email = ""
+# Letter dir
+letter = "Letter/letter.html"
+# Random Link if available
+random_link = ["http://short.link/1","http://short.link/2","http://short.link/3"]
+setDelay = 0
+
+# SMTP
+
+smtpHost = ""
+smtpPort = ""
+smtpUser = ""
+smtpPass = ""
+
+
